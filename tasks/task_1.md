@@ -4,7 +4,8 @@
 
 - For ex: If the `select` menu has the items `One`, `Two`, `Three` etc.. Selecting one of those values should make the content of the `textbox` to change to that value
 
-### Also:
+### Rules:
 
 - Use only HTML5
+- No external JavaScript libraries should be used.
 - The default text on the `select` menu and the `textbox` should be blank.
