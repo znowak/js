@@ -1,4 +1,4 @@
-## Relearning JavaScript
+## Relearn: JavaScript
 
 All the tasks that are to be accomplished will be saved in the `tasks/` folder.
 
