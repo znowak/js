@@ -1,5 +1,7 @@
 ## Remarks
 
+### BEFORE LOOKING AT MY SOLUTION, TRY TO MAKE CHANGES TO YOUR CODE BASED ON THE FOLLOWING REMARKS. AFTER YOU'VE MADE THE CHANGES, LOOK AT HOW I'VE DONE IT.
+
 - doctype is not html5. use `<!DOCTYPE html>` as the first line of your HTML file. it's a good practice to embrace html5. it's very useful and powerful.
 - your function name doesn't make any sense. always write self documenting code or document code whenever possible. a good name for the function in your case would be `updateTextFieldFrom('select-menu-id')`. this makes more sense and needs no further documentation explaining it's purpose.
 - default values of the `textbox` and `select` menu are not blank. pay attention to the instructions.
