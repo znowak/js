@@ -6,3 +6,4 @@
 - indent code with 2 spaces and don't ever use tabs. use `smart-tabs`.
 - the function that you've written is a global function. you should never write global functions. it will become a problem to debug code and scale. it is too early to talk about it, so will give it some time and practice before we start considering memory handling and optimization.
 - also, there is no fallback when no id is passed to your function. it simply breaks. [http://i.imgur.com/WCZBG.png](http://i.imgur.com/WCZBG.png)
+- one last thing, handling events from the element itself is not a great idea. it is a better practice to delegate the events. the advantage is you can add multiple event handlers this way.
