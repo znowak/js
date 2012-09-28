@@ -6,3 +6,5 @@ The code for the corresponding task should be available in the `src/username/tas
 
 Ex: `tasks/task_1.md` must have its solution in `src/username/task_1/`.
 
+
+Interesting read: http://omniti.com/seeds/javascript-tips-for-non-specialists
