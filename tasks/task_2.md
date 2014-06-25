@@ -1,8 +1,0 @@
-- create three functions in a JS file
-- all the three functions should have the same exact name
-- each function should perform a different action
-- for ex: say the name of the functions is `greeting`. each of these functions greets the user in a different language. when the first function is called it greets the user in "chinese", the second function (which of course goes by the same exact name) greets the user in "english" and the third function (same name as the previous two) will greet the user in "spanish".
-- also, all the three functions should exist at all times
-- you have two steps now
-	- design a solution for the above mentioned problem
-	- refactor the solution to a single function

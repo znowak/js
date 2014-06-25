@@ -4,6 +4,7 @@
 - variables
 - types in js
 - conditionals
+  - strict equality operator
 - loops
 - operator precedence
 - functions
@@ -28,6 +29,8 @@
 - object oriented js
 - class
 - object
+- inheritance
+- private/public methods
 - object vs object literal
 - html5 javascript APIs
 - projects
