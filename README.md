@@ -30,6 +30,8 @@
 - class
 - object
 - inheritance
+- class methods/properties
+- instance methods/properties
 - private/public methods
 - object vs object literal
 - html5 javascript APIs
