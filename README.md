@@ -34,6 +34,9 @@
 - instance methods/properties
 - private/public methods
 - object vs object literal
+- closure
+- Anonymous Functions
+- Immediately-Invoked Function Expression (IIFE)
 - html5 javascript APIs
 - projects
 
