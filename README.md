@@ -5,10 +5,10 @@
 - types in js
 - conditionals
   - strict equality operator
-- Type Conversion
 - loops
 - operator precedence
 - functions
+- Type Conversion
 - return values
 - type of function?!
 - local and global variables
