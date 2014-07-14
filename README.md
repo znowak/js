@@ -5,6 +5,7 @@
 - types in js
 - conditionals
   - strict equality operator
+- Type Conversion
 - loops
 - operator precedence
 - functions
