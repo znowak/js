@@ -13,6 +13,8 @@
 - local and global variables
 - different ways of defining a function
 - variable hoisting
+- Throwing Exceptions 
+- Error Handling 
 - iife
 - passing arguments to functions
 - optional params
