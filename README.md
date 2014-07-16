@@ -11,6 +11,7 @@
 - Type Conversion
 - return values
 - type of function?!
+- Anonymous Functions
 - local and global variables
 - different ways of defining a function
 - variable hoisting
@@ -38,7 +39,6 @@
 - private/public methods
 - object vs object literal
 - closure
-- Anonymous Functions
 - html5 javascript APIs
 - projects
 
